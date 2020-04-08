@@ -22,7 +22,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 80rem;
+  max-width: 100rem;
   margin: 0 auto;
   padding: 2rem;
   background-color: aliceblue;
@@ -37,6 +37,11 @@ h2 {
   justify-content: center;
   align-items: center;
 }
+
+.text-center {
+  text-align: center;
+}
+
 
 /* BUTTONS */
 .btn {
